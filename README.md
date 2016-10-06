@@ -1,7 +1,7 @@
 node-7z-15
 =======
 
-[![Dependencies Status][david-image]][david-url] [![Build Status][travis-image]][travis-url] [![Code coverage][coveralls-image]][coveralls-url] [![Code quality][codeclimate-image]][codeclimate-url] [![Release][npm-image]][npm-url]
+[![Dependencies Status][david-image]][david-url] [![Build Status][travis-image]][travis-url] [![Code coverage][coveralls-image]][coveralls-url] [![Release][npm-image]][npm-url]
 
 > A Node.js wrapper for 7-Zip versions 15+
 
@@ -260,5 +260,5 @@ With :heart: from [quentinrossetti](http://quentinrossetti.me/)
 [codeclimate-image]: http://img.shields.io/codeclimate/github/redx25/node-7z.svg
 [coveralls-url]: https://coveralls.io/r/redx25/node-7z
 [coveralls-image]: http://img.shields.io/coveralls/redx25/node-7z.svg
-[npm-url]: https://www.npmjs.org/package/node-7z
-[npm-image]: http://img.shields.io/npm/v/node-7z.svg
+[npm-url]: https://www.npmjs.org/package/node-7z-15
+[npm-image]: http://img.shields.io/npm/v/node-7z-15.svg
