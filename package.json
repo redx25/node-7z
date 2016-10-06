@@ -1,7 +1,7 @@
 {
-  "name": "node-7z",
-  "version": "0.4.2",
-  "description": "A Node.js wrapper for 7-Zip",
+  "name": "node-7z-15",
+  "version": "0.4.3",
+  "description": "A Node.js wrapper for 7-Zip v15+, forked from https://github.com/quentinrossetti/node-7z",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/quentinrossetti/node-7zip.git"
+    "url": "https://github.com/redx25/node-7zip.git"
   },
   "keywords": [
     "node",
@@ -26,9 +26,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/quentinrossetti/node-7zip/issues"
+    "url": "https://github.com/redx25/node-7zip/issues"
   },
-  "homepage": "https://github.com/quentinrossetti/node-7zip.git",
+  "homepage": "https://github.com/redx25/node-7zip.git",
   "dependencies": {
     "when": "^3.7.7",
     "cross-spawn": "^4.0.0"
