@@ -1,9 +1,9 @@
-node-7z
+node-7z-15
 =======
 
 [![Dependencies Status][david-image]][david-url] [![Build Status][travis-image]][travis-url] [![Code coverage][coveralls-image]][coveralls-url] [![Code quality][codeclimate-image]][codeclimate-url] [![Release][npm-image]][npm-url]
 
-> A Node.js wrapper for 7-Zip
+> A Node.js wrapper for 7-Zip versions 15+
 
 Usage
 -----
@@ -252,13 +252,13 @@ archive.list('archive.zip', {
 ***
 With :heart: from [quentinrossetti](http://quentinrossetti.me/)
 
-[david-url]: https://david-dm.org/quentinrossetti/node-7z
-[david-image]: http://img.shields.io/david/quentinrossetti/node-7z.svg
-[travis-url]: https://travis-ci.org/quentinrossetti/node-7z
-[travis-image]: http://img.shields.io/travis/quentinrossetti/node-7z.svg
-[codeclimate-url]: https://codeclimate.com/github/quentinrossetti/node-7z
-[codeclimate-image]: http://img.shields.io/codeclimate/github/quentinrossetti/node-7z.svg
-[coveralls-url]: https://coveralls.io/r/quentinrossetti/node-7z
-[coveralls-image]: http://img.shields.io/coveralls/quentinrossetti/node-7z.svg
+[david-url]: https://david-dm.org/redx25/node-7z
+[david-image]: http://img.shields.io/david/redx25/node-7z.svg
+[travis-url]: https://travis-ci.org/redx25/node-7z
+[travis-image]: http://img.shields.io/travis/redx25/node-7z.svg
+[codeclimate-url]: https://codeclimate.com/github/redx25/node-7z
+[codeclimate-image]: http://img.shields.io/codeclimate/github/redx25/node-7z.svg
+[coveralls-url]: https://coveralls.io/r/redx25/node-7z
+[coveralls-image]: http://img.shields.io/coveralls/redx25/node-7z.svg
 [npm-url]: https://www.npmjs.org/package/node-7z
 [npm-image]: http://img.shields.io/npm/v/node-7z.svg
